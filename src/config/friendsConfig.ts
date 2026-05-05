@@ -11,7 +11,7 @@ export const friendsPageConfig: FriendsPageConfig = {
 	description: "",
 
 	// 是否显示底部自定义内容（friends.mdx 中的内容）
-	showCustomContent: true,
+	showCustomContent: false,
 
 	// 是否显示评论区，需要先在commentConfig.ts启用评论系统
 	showComment: true,
@@ -22,6 +22,7 @@ export const friendsPageConfig: FriendsPageConfig = {
 
 // 友链配置
 export const friendsConfig: FriendLink[] = [
+	/*
 	{
 		title: "夏夜流萤",
 		imgurl:
@@ -50,6 +51,7 @@ export const friendsConfig: FriendLink[] = [
 		weight: 8,
 		enabled: true,
 	},
+	*/
 ];
 
 // 获取启用的友链并进行排序

@@ -56,6 +56,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		],
 	});
 
+	/*
 	// 自定义导航栏链接,并且支持多级菜单
 	links.push({
 		name: "链接",
@@ -84,7 +85,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 			},
 		],
 	});
-
+	*/
 	// 仅返回链接，其它导航搜索相关配置在模块顶层常量中独立导出
 	return { links } as NavBarConfig;
 };
