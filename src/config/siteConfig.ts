@@ -7,13 +7,13 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "QWQ",
+	title: "Chuby's blog",
 
 	// 站点副标题
 	subtitle: "AWA",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: "https://blog.213188.xyz",
 
 	// 站点描述
 	description:
