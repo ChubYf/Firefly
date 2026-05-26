@@ -1,6 +1,6 @@
 ---
 title: PEStudy2_dll反射注入
-published: 2026-05-10
+published: 2026-05-26
 description: dll注入目标进程
 image: ./cover.jpg
 tags: [逆向]
