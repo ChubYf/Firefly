@@ -1,5 +1,5 @@
 ---
-title: PE反射注入(内嵌exe版)
+title: PEStudy1_PE反射注入(内嵌exe版)
 published: 2026-05-10
 description: exe嵌套exe
 image: ./cover.jpg
