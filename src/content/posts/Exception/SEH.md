@@ -1,6 +1,6 @@
 ---
 title: SEH异常处理
-published: 2026-06-3
+published: 2026-06-03
 description: x86和x64下的SEH异常处理
 image: ./cover.jpg
 tags: [逆向]
